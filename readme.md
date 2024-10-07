@@ -45,7 +45,7 @@ pip install pyqt6 qt_material qrcode pyzbar pillow opencv-python
 You can clone the repository (or create the Python file) using:
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/1999AZZAR/qr-code-tools.git
 ```
 
 Alternatively, create a Python file (`qr_code_app.py`) with the code provided above.
